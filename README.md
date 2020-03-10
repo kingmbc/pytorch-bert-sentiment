@@ -1,5 +1,5 @@
 ### Training Sentiment Model Using BERT and Serving it with Flask API
-This project is from the code in the below youtube video.
+This project is to follow and reproduce the code from the below youtube video.
 - Youtube: https://www.youtube.com/watch?v=hinZO--TEk4
 - Github: https://github.com/abhishekkrthakur/bert-sentiment/
 
